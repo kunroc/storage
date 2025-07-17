@@ -1,0 +1,32 @@
+{
+  "name": "storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunroc/storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunroc/storage/issues"
+  },
+  "homepage": "https://github.com/kunroc/storage#readme",
+  "dependencies": {
+    "vue": "^3.4.0",
+    "less": "^4.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "@vitejs/plugin-vue": "^4.5.0",
+    "typescript": "^5.2.0",
+    "@types/node": "^20.11.30"
+  }
+}
